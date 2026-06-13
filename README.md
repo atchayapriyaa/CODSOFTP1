@@ -16,3 +16,9 @@
 **Intern Name:** Atchaya Priyaa K  
 **GitHub:** https://github.com/atchayapriyaa
 
+# Project Screenshorts
+# Portfolio website
+![Portfolio](Screenshort/portfolio.png)
+
+# Landing page
+![Landing page](Screenschort/landing%20page)
